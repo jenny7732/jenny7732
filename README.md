@@ -2,8 +2,8 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yujin%20Github!&fontSize=90" />	
 </div>
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
+	<h2>📚 Tech Stack 📚</h2>
+	<h3>✨ Platforms & Languages ✨</h3>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -15,7 +15,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<h3>🛠 Tools 🛠</h3>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
@@ -24,7 +24,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<h2>🎨 SNS & Portfolio 🎨</h2>
 </div>
 <div align=center>
 	<a href="https://velog.io/@jenny7732">
@@ -34,13 +34,16 @@
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<br>
+	
+<div align=center>
+	<h2>🌿 Experience</h2>
 </div>
 <div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenny7732&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=jenny7732&show_icons=true">
+	<div>동국대학교 SW융합 동아리 'Farm System' 2기</div>
+ 	<div>동국대학교 'Hi-SW 봉사단' 9기</div>
+  	<div>멋쟁이 사자처럼 프론트엔드 스쿨 4기</div>
+	<div>it 연합 동아리 '코테이토' 4기</div>
 
-<br>
 </div>
 <br>
 
